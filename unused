@@ -1,2 +1,4 @@
+# Delete unused nodes, materials ... in the scene
+
 import pymel.core as pm
 pm.mel.MLdeleteUnused()
